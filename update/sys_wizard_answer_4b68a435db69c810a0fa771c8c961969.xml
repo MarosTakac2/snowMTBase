@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Artefact</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Artefact</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">e8cad1555d121300651727c3e282e84b</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-06 13:58:37</sys_created_on>
+        <sys_id>4b68a435db69c810a0fa771c8c961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Artefact</sys_name>
+        <sys_package display_value="MT Base" source="x_34283_mt_base">d423cf15db2d4810a0fa771c8c9619a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MT Base">d423cf15db2d4810a0fa771c8c9619a3</sys_scope>
+        <sys_update_name>sys_wizard_answer_4b68a435db69c810a0fa771c8c961969</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-06 13:58:37</sys_updated_on>
+        <table/>
+        <target_url>x_34283_mt_base_artefact.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
