@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Artefact" language="en" table="x_34283_mt_base_artefact">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Artefact</label>
+            <language>en</language>
+            <name>x_34283_mt_base_artefact</name>
+            <plural>Artefacts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-06 13:58:37</sys_created_on>
+            <sys_id>0768a435db69c810a0fa771c8c96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Artefact</sys_name>
+            <sys_package display_value="MT Base" source="x_34283_mt_base">d423cf15db2d4810a0fa771c8c9619a3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MT Base">d423cf15db2d4810a0fa771c8c9619a3</sys_scope>
+            <sys_update_name>sys_documentation_x_34283_mt_base_artefact__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-06 13:58:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
